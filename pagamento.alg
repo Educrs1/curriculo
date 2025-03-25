@@ -11,9 +11,9 @@ inicio
     leia(preco)
 
     escreva("Qual a forma de pagamento?")
-    escreva("[1] À vista com 10% de desconto")
-    escreva("[2] Parcelado em 5 vezes(sem juros")
-    escreva("[3] Parcelado em 10 vezes(com juros de 20%)")
+    escreva("1 À vista com 10% de desconto")
+    escreva("2 Parcelado em 5 vezes(sem juros")
+    escreva("3 Parcelado em 10 vezes(com juros de 20%)")
     leia(fpagamento)
 
     escolha fpagamento
